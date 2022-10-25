@@ -1,8 +1,11 @@
 {
   "hosting": {
-    "public": "public",
+    "site": "ozebook",
+    "public": "assets",
     "ignore": [
       "firebase.json",
+      "index.txt",
+      "style-guide.md",
       "**/.*",
       "**/node_modules/**"
     ],

@@ -18,8 +18,8 @@
  
 
   /* Typography */
-  --ff-philosopher: 'Philosopher', sans-serif;
-  --ff-poppins: 'Poppins', sans-serif;
+  --ff-philosopher: 'Philosopher', 'Segoe UI', sans-serif;
+  --ff-poppins: 'Poppins', 'Segoe UI', sans-serif;
   --fs-1: 4rem; 
   --fs-2: 3.2rem; 
   --fs-3: 2.7rem; 
